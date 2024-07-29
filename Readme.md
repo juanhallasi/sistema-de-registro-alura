@@ -6,3 +6,4 @@ Para ejecutar el sistema, debes poner:
 
 ```rnm install react```
 
+sistema de registro 2
